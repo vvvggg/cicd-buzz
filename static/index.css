@@ -1,0 +1,22 @@
+body {
+  padding:               0; 
+  background:            url('/static/wallpaper.jpg') no-repeat;
+  background-size:       cover; 
+  background-color:      #ddcccc; 
+  background-blend-mode: multiply; 
+}
+
+.buzz { 
+  color:       #fff; 
+  font-family: 'Lobster', cursive; 
+  font-size:   48px; 
+}
+
+div.buzz { 
+  max-width:  40%; 
+  margin:     0 auto; 
+  text-align: center; 
+  position:   relative; 
+  top:        60%;
+}
+
